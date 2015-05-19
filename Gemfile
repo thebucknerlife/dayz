@@ -46,4 +46,5 @@ end
 gem 'rails_12factor'
 gem 'passenger'
 gem 'sidekiq'
-gem 'twilio'
+gem 'twilio-ruby', '~> 4.0.0'
+gem 'figaro'
