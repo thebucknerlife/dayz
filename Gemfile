@@ -45,3 +45,5 @@ end
 
 gem 'rails_12factor'
 gem 'passenger'
+gem 'sidekiq'
+gem 'twilio'
